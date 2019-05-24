@@ -16,11 +16,11 @@ Given a record of every transaction during a three month period, calculate the r
 In the program shown above a customer enters the amount of there transaction and it tells them how many rewards points they will get.<br>
 This program works for a single transaction at a time.<br><br>
 Below are three 3 of code, each showing 1 of the 3 ranges.<br>
-1. Below 50 (no rewards)<br>
+1. Below $50 (no rewards)<br>
 ![picture description](https://github.com/razorwired1124/RewardsProgram/blob/master/Code%20Snippets/single_transaction_output_2.PNG)<br/><br/>
-2. Above 50 and below 100 (1 point for every dollar over 50)<br>
+2. Above $50 and below $100 (1 point for every dollar over 50)<br>
 ![picture description](https://github.com/razorwired1124/RewardsProgram/blob/master/Code%20Snippets/single_transaction_output_3.PNG)<br/><br/>
-3. Above 100 (1 point for every dollar between 51-100 & 2 points for every dollar greater than 100)<br>
+3. Above $100 (1 point for every dollar between 51-100 & 2 points for every dollar greater than 100)<br>
 ![picture description](https://github.com/razorwired1124/RewardsProgram/blob/master/Code%20Snippets/single_transaction_output_1.PNG)<br/><br/><br>
 #### More Transactions(3 Months)
 ![picture description](https://github.com/razorwired1124/RewardsProgram/blob/master/Code%20Snippets/rewards_program_update.PNG)<br/>
