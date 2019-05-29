@@ -29,8 +29,17 @@ The picture below shows the output for the above program<br>
 ![picture description](https://github.com/razorwired1124/RewardsProgram/blob/master/Code%20Snippets/rewards_program_output_1.PNG)<br><br>
 ### Ideas for Future Implementation
 1. Write more intelligent code, and make it look cleaner.<br>
-2. Use Python packages such as numpy and panda which are great for data manipulation, analysis, support for large multi-dimensional arrays, and high-level mathmatical functions<br>
+2. Use Python packages such as numpy and pandas which are great for data manipulation, analysis, support for large multi-dimensional arrays, and high-level mathmatical functions<br>
 3. Try using a different approach with a different language(s), such as using HTML, JavaScript, CSS, along with other web development tools. I think a nice clean dataset could be created using these resources<br>
 4. Take more time to improve the basic functionality and feel of the program<br><br>
 ### Conclusion
-In conclusion the very basics of this program where not extremely challenging, however with more time and effort I think that this project could look a lot nicer then in its current form. 
+In conclusion the very basics of this program where not extremely challenging, however with more time and effort I think that this project could look a lot nicer then in its current form.<br>
+
+### Update 5/28/2019 using Python, pandas (which I just started learning today) & jupyter notebooks
+The pictures below depict another way to solve the problem described above.<br>
+For the full answer, view the jupyter notebook here:<br> https://github.com/razorwired1124/RewardsProgram/blob/master/rewards_program/rewards_program.ipynb<br>
+For the csv file view:<br>
+https://github.com/razorwired1124/RewardsProgram/blob/master/rewards_program/customer_info.csv<br><br>
+![picture description](https://github.com/razorwired1124/RewardsProgram/blob/master/Code%20Snippets/csv_file.PNG)<br><br>
+![picture description](https://github.com/razorwired1124/RewardsProgram/blob/master/Code%20Snippets/rewards_using_pandas.PNG)<br><br>
+![picture description](https://github.com/razorwired1124/RewardsProgram/blob/master/Code%20Snippets/output_using_pandas.PNG)<br><br>
