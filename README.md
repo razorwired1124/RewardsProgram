@@ -35,7 +35,7 @@ The picture below shows the output for the above program<br>
 ### Conclusion
 In conclusion the very basics of this program where not extremely challenging, however with more time and effort I think that this project could look a lot nicer then in its current form.<br>
 
-### Update 5/28/2019 using Python, pandas (which I just started learning today) & jupyter notebooks
+### Update 5/28/2019 using Python, pandas & jupyter notebooks
 The pictures below depict another way to solve the problem described above.<br>
 For the full answer, view the jupyter notebook here:<br> https://github.com/razorwired1124/RewardsProgram/blob/master/rewards_program/rewards_program.ipynb<br>
 For the csv file view:<br>
